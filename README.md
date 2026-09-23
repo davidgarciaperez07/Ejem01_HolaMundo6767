@@ -26,3 +26,5 @@ Esta modificación nos sirve para aprender markdown, que por ejemplo los título
 
 # Creamos nuestra primera rama
 ## Ahora mismo estamos en la rama main y no está el mensaje del Branch
+
+**Modificamos en la rama2**
